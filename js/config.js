@@ -57,7 +57,6 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-<<<<<<< HEAD
 "1.jpg",
 "2.png",
 "3.jpg",
@@ -66,19 +65,6 @@ var l_bgImages = [
 "6.jpg",
 "7.jpg",
 "8.jpg",
-<<<<<<< HEAD
-=======
-=======
-"pic1.jpg",
-"pic2.png",
-"pic3.jpg",
-"pic4.jpg",
-"pic5.jpg",
-"pic6.jpg",
-"pic7.jpg",
-"pic8.jpg"
->>>>>>> 8071e2f86815cf9cdac89335f3a4d7b7778358c0
->>>>>>> 6665dda221acae67e2cbdfa3036c9e13f3138c39
 ];
 
 /*Random background images order?
