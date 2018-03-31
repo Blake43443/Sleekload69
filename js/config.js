@@ -57,14 +57,14 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-"pic1.jpg",
-"pic2.jpg",
-"pic3.jpg",
-"pic4.jpg",
-"pic5.jpg",
-"pic6.jpg",
-"pic7.jpg",
-"pic8.jpg",
+"1.png",
+"2.jng",
+"3.jpg",
+"4.jpg",
+"5.jpg","
+"6.jng",
+"7.jpg",
+"8.jpg",
 ];
 
 /*Random background images order?
@@ -123,7 +123,7 @@ var l_messages = [
 	 "Thank You For Joining",
 	 "Enjoy Your Stay",
 	 "Join Our Discord: https://discord.gg/sBZXC39",
-	 "Download Our Content Pack: http://steamcommunity.com/sharedfiles/filedetails/?id=1333385930"
+	 "Download Our Content Pack: http://steamcommunity.com/sharedfiles/filedetails/?id=1325210914"
 ];
 
 /*Random message order?
