@@ -58,11 +58,11 @@ Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
 "1.png",
-"2.jng",
+"2.jpg",
 "3.jpg",
 "4.jpg",
 "5.jpg","
-"6.jng",
+"6.jpg",
 "7.jpg",
 "8.jpg",
 ];
